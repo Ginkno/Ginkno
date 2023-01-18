@@ -5,9 +5,9 @@
 ### <strong>Here are some of my stats for you to checkout...</strong> ###
 <lb></lb>
 
-[![Ginkno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginkno)](https://github.com/anuraghazra/github-readme-stats)
+[![Ginkno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ginkno's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=dark)](https://github.com/Ginkno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br></br>
 
