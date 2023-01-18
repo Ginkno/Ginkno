@@ -7,13 +7,18 @@
 
 [![Ginkno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br></br>
 
+### <strong> Some recently made repos of mine </strong> ###
+<lb></lb>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&show_description=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=NTSL-trading&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Projeto-DIO-GitHub-Desafio&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <strong><p style="color:54B435">Here are some of the languages and frameworks that I've looked into...</p></strong> ###
 <lb></lb>
