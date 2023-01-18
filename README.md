@@ -8,9 +8,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula" />
 </a>
-
+<br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&card_width=400" />
 </a>
 
 <br></br>
