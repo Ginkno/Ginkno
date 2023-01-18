@@ -5,9 +5,12 @@
 ### <strong>Here are some of my stats for you to checkout...</strong> ###
 <lb></lb>
 
-[![Ginkno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=merko" />
+</a>
 
 <br></br>
 
