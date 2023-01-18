@@ -15,7 +15,7 @@
 
 <br></br>
 
-### <strong> Some recently made repos of mine </strong> ###
+### Some recently made repos of mine ###
 <lb></lb>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
