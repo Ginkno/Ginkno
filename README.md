@@ -12,6 +12,9 @@
 <br></br>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### <strong><p style="color:54B435">Here are some of the languages and frameworks that I've looked into...</p></strong> ###
 <lb></lb>
 
