@@ -6,11 +6,11 @@
 <lb></lb>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=transparent&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=transparent" />
 </a>
 
 <br></br>
