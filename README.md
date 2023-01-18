@@ -6,11 +6,11 @@
 <lb></lb>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginkno&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ginkno&show_icons=true&theme=dracula" />
 </a>
 <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginkno&layout=compact&card_width=400" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ginkno&layout=compact&theme=dracula" />
 </a>
 
 <br></br>
@@ -18,11 +18,19 @@
 ### Some recently made repos of mine ###
 <lb></lb>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=NTSL-trading&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&theme=radical" />
+</a>
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=NTSL-trading&show_owner=true&theme=radical" />
+</a>
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Projeto-DIO-GitHub-Desafio&show_owner=true&theme=radical" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ginkno&repo=Projeto-DIO-GitHub-Desafio&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <strong><p style="color:54B435">Here are some of the languages and frameworks that I've looked into...</p></strong> ###
 <lb></lb>
@@ -51,9 +59,7 @@
 [![Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)]()
 [![Skills](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
-
 <br></br>
-
 ### As a developer, gaming couldn't be out. These are some platforms that are <strong>"game changers"</strong> for me haha ###
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
