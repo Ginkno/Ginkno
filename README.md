@@ -19,15 +19,15 @@
 <lb></lb>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ginkno/Browser-automation-with-python">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&theme=radical" />
 </a>
 <br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ginkno/NTSL-trading">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=NTSL-trading&show_owner=true&theme=radical" />
 </a>
 <br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ginkno/Projeto-DIO-GitHub-Desafio">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Projeto-DIO-GitHub-Desafio&show_owner=true&theme=radical" />
 </a>
 
