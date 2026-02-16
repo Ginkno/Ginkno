@@ -19,7 +19,7 @@
 <lb></lb>
 
 
-<a href="https://github.com/Ginkno/Browser-automation-with-python">
+<a href="nhttps://github.com/Ginkno/PomoPower">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&theme=radical" />
 </a>
 <br></br>
@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=NTSL-trading&show_owner=true&theme=radical" />
 </a>
 <br></br>
-<a href="https://github.com/Ginkno/Projeto-DIO-GitHub-Desafio">
+<a href="https://github.com/Ginkno/Browser-automation-with-python">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Projeto-DIO-GitHub-Desafio&show_owner=true&theme=radical" />
 </a>
 
