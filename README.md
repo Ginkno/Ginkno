@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/Ginkno/PomoPower">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=Browser-automation-with-python&show_owner=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ginkno&repo=PomoPower&show_owner=true&theme=radical" />
 </a>
 <br></br>
 <a href="https://github.com/Ginkno/NTSL-trading">
